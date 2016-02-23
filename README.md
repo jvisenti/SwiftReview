@@ -32,6 +32,8 @@ A sandox repo for Swift code reviews for the Spring '16 Mobile Computing class. 
   ```
   You will now see your branch in the branches dropdown on the GitHub page for your fork.
   
-6. Go to the GitHub page for your fork (`https://github.com/<your_github_username>/SwiftReview`). Click the `New Pull Request` button to create a Pull Request into this repository. Provide a relevant title and description, and then click `Create Pull Request`.
+6. Go to the GitHub page for your fork (`https://github.com/<your_github_username>/SwiftReview`), and click the `New Pull Request` button.
   
-7. Wait for your code to be reviewed. Leave a comment on your pull request tagging `@jvisenti` for quicker review.
+7. Select your branch from the right side dropdown menu. You should see a diff appear below showing the changes you made on your branch. Provide a relevant title and description, and then click `Create Pull Request`.
+  
+8. Wait for your code to be reviewed. Leave a comment on your pull request tagging `@jvisenti` for quicker review.
